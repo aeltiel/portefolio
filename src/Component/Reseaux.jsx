@@ -30,8 +30,8 @@ function Reseaux() {
         </div>
         <div className="presentation__CV--profil">
           <a
-            href="/DataPdf/CV_Ingrid_Stemer_CDA_DevOps.pdf"
-            download="CV-CDAxDevOps-IS.pdf"
+            href="/DataPdf/CV_Software_Engineer_Ingrid_STEMER_2026.pdf"
+            download="CV-Software_Engineer-Ingrid_STEMER.pdf"
           >
             <Button name={"Mon CV"} />
           </a>

@@ -34,6 +34,11 @@ function Rules() {
             le parchemin <i className="fa-solid fa-scroll"></i> qui est sur la
             table. Vous pouvez également quitter la Bibliothèque en passant par
             le portail qui se trouve sur la dalle bleue à votre droite.
+            <span>D'autres part ma maitresse est également en train d'ajouter de
+              nouvelles pages à ces grimoires. De fait, Les livres de la bibliothèque
+              ne sont plus à jour. Merci de patienter le temps qu'elle fasse le nécessaire
+              pour ordonner ses ouvrages.
+            </span>
           </p>
           <p className="rule__text3">Bonne lecture.</p>
         </div>

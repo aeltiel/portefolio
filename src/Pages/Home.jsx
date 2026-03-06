@@ -43,7 +43,7 @@ function Home() {
             <img className="presentation__img" src={moi} alt="Ingrid Stemer" />
             <Presentation
               title={
-                "Ingrid STEMER / Conceptrice Développeuse d'Application x DevOps Alternance"
+                "Ingrid STEMER / Sotftware Engineer"
               }
               description={data[0].description}
             />
